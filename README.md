@@ -1,2 +1,2 @@
-# study
-Repos avec tous mes projets d'étude de terminal STI2D.
+# Projets d'étude
+- Voici le repos avec tous mes projets d'années 2022-2023.

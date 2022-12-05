@@ -1,2 +1,2 @@
-# Projets d'étude
-- Voici le repos avec tous mes projets d'années 2022-2023.
+# Projet de site internet début d'année
+- Création du site partir d'une page HTML vierge.
